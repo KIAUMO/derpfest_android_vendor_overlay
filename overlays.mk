@@ -56,6 +56,7 @@ PRODUCT_PACKAGES += \
     FontStoropiaSourceOverlay \
     FontRobotoFlexRegularOverlay \
     FontGoogleSansFlexRegularOverlay \
+    FontUbuntuMonoOverlay \
     FontUbuntuOverlay
 
 # Icon shapes
